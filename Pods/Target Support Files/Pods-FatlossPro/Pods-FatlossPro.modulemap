@@ -1,0 +1,6 @@
+framework module Pods_FatlossPro {
+  umbrella header "Pods-FatlossPro-umbrella.h"
+
+  export *
+  module * { export * }
+}
